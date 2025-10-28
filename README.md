@@ -111,6 +111,7 @@
 
 ---
 
+
 ## 🗂️ Структура дашборда
 
 ### Титульная: 
@@ -298,7 +299,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultan-buzhkenov-709685302/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](http://github.com/sultan9b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](ссылка)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sultan9b?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbuzhkenov@gmail.com)
 
 </div>
